@@ -1,0 +1,5 @@
+Boerne,0,I-10
+in,Comfort,16,I-10,tx-87
+in,Kerrville,34,I-10,tx-16
+Mountan Home,52,I-10,
+in,Fredricksburg,38,tx-16,tx-87
